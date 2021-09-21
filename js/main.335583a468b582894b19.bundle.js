@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_starter_kit=self.webpackChunkwebpack_starter_kit||[]).push([[179],{945:function(){console.log("this is an example")}},function(e){e(e.s=945)}]);
